@@ -1,0 +1,19 @@
+body {
+   
+}
+.App {
+  background:
+  linear-gradient(
+    rgba(0, 0, 0, 0.3), 
+    rgba(0, 0, 0, 0.3)
+  ),
+  url(https://as2.ftcdn.net/v2/jpg/03/70/07/85/1000_F_370078596_TYtDdl7hkyOWm6tNGp0HMVhotQ44G6Ba.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100vh;
+}
+* {
+    margin: 0;
+    padding: 0;
+}

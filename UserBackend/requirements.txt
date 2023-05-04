@@ -1,0 +1,5 @@
+flask
+PyJWT
+Flask-Compress
+flask-cors
+pymongo
